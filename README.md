@@ -13,12 +13,11 @@
 How often did you find yourself doing much more online shopping over the past 3 years? As the COVID-19 pandemic reshapes our world, more consumers have begun shopping online in greater numbers and frequency, including myself! For my Capstone #2 project, I decided to build a very simple eCommerce web application using React, Redux, Node & Express, and MongoDB. I took the idea from helping friends and family get their Shopify websites up and going from the many hobbies we all picked up on from arts and crafts and to drop shipping. From playing around with Shopify, it inspired my own Fake eShop where I sell the most random, bizarre things, from Corgi puppies to apparel and… limes? It won’t be the next Shopify, but hopefully it will server as a fun and creative way to demonstrate how well-suited React is to building dynamic and engaging user interfaces. No external API used. I was able to create and connect my own database to the frontend.
 
 ### Initial Project Proposal
-
-<LINK HERE>
+[Capstone #2 Proposal Docs] (https://github.com/codingwithjen/eshop/tree/main/proposal-docs)
 
 ### Initial Database Schema
 
-<DB IMAGE HERE>
+![Design Schema](/proposal-docs/schema.png)
 
 # Features
 
@@ -85,6 +84,23 @@ MONGO_URL=mongodb+srv://admin:<password>@eshop.o791lg3.mongodb.net/<put-cluster-
 ```
 
 # Screenshots
+The homepage
+![Homepage Screenshot](/images/homepage.png)
+
+The product details page
+![Product Detail](/images/productDetail.png)
+
+User's profile/dashboard view
+![User Dashboard/Profile](/images/userprofile.png)
+
+User's cart summary
+![Cart Summary](/images/cartsummary.png)
+
+Order confirmation page after "checkout"
+![Order Confirmation](/images/orderconf.png)
+
+User's order details and status
+![Order Details](/images/orderlist.png)
 
 
 
@@ -115,11 +131,11 @@ You will find each version used in each `package.json` file for both the *******
 
 Here’s a list of my stretch goals while building this application. I do intend on adding more to the eShop website and I plan on constantly updating goals as provided by my mentor or myself:
 
-- [x]  Fake payment through "third-party"
-- [ ]  Admin to fulfill order status to paid, or in progress...
-- [ ]  Or Stripe Payment feature
+- [x]  Fake payment through "third-party" aka, PayPal or Credit Card
 - [x]  Fake order confirmation or orders page
 - [x]  Fake customer reviews
+- [ ]  Admin to fulfill order status to paid, or in progress...
+- [ ]  Or Stripe Payment feature
 - [ ]  Admin access to edit or add products, or edit/add users in the database
 - [ ]  Pagination to sale items, new arrivals, etc.
 - [ ]  Verification for new registered users and reset password via email reset only
