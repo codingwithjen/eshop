@@ -13,7 +13,7 @@
 How often did you find yourself doing much more online shopping over the past 3 years? As the COVID-19 pandemic reshapes our world, more consumers have begun shopping online in greater numbers and frequency, including myself! For my Capstone #2 project, I decided to build a very simple eCommerce web application using React, Redux, Node & Express, and MongoDB. I took the idea from helping friends and family get their Shopify websites up and going from the many hobbies we all picked up on from arts and crafts and to drop shipping. From playing around with Shopify, it inspired my own Fake eShop where I sell the most random, bizarre things, from Corgi puppies to apparel and… limes? It won’t be the next Shopify, but hopefully it will serve as a fun and creative way to demonstrate how well-suited React is to building dynamic and engaging user interfaces. No external API used. I was able to create and connect my own database to the frontend using RESTFUL API principles.
 
 ### Initial Project Proposal
-[Capstone #2 Proposal Docs] (https://github.com/codingwithjen/eshop/tree/main/proposal-docs)
+[Capstone #2 Proposal Docs](https://github.com/codingwithjen/eshop/tree/main/proposal-docs)
 
 ### Initial Database Schema
 
@@ -79,7 +79,7 @@ You can replace my environment variables with your own, or use examples below
 PORT=1000
 NODE_ENV=development
 JWT_SECRET=eshop1234
-PAYPAL_CLIENT_ID =
+PAYPAL_CLIENT_ID=<your-paypal-client-id-here>
 MONGO_URL=mongodb+srv://admin:<password>@eshop.o791lg3.mongodb.net/<put-cluster-name-here>?retryWrites=true&w=majority
 ```
 
