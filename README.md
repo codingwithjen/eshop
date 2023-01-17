@@ -4,11 +4,11 @@
 
 <LINK HERE>
 
----
+
 
 # Description
 
----
+
 
 How often did you find yourself doing much more online shopping over the past 3 years? As the COVID-19 pandemic reshapes our world, more consumers have begun shopping online in greater numbers and frequency, including myself! For my Capstone #2 project, I decided to build a very simple eCommerce web application using React, Redux, Node & Express, and MongoDB. I took the idea from helping friends and family get their Shopify websites up and going from the many hobbies we all picked up on from arts and crafts and to drop shipping. From playing around with Shopify, it inspired my own Fake eShop where I sell the most random, bizarre things, from Corgi puppies to apparel and… limes? It won’t be the next Shopify, but hopefully it will server as a fun and creative way to demonstrate how well-suited React is to building dynamic and engaging user interfaces. No external API used. I was able to create and connect my own database to the frontend.
 
@@ -22,7 +22,7 @@ How often did you find yourself doing much more online shopping over the past 3 
 
 # Features
 
----
+
 
 - Look alike Shopify home front of products for sale displayed
 - Product list, product detail, and product cards with pricing, image, description, quantity, and user reviews
@@ -31,7 +31,7 @@ How often did you find yourself doing much more online shopping over the past 3 
 
 # Run Locally
 
----
+
 
 1. Clone project
 
@@ -86,7 +86,7 @@ MONGO_URL=mongodb+srv://admin:<password>@eshop.o791lg3.mongodb.net/<put-cluster-
 
 # Screenshots
 
----
+
 
 ****************Interested in playing around with the demo? Use admin credentials below:****************
 
@@ -95,7 +95,7 @@ MONGO_URL=mongodb+srv://admin:<password>@eshop.o791lg3.mongodb.net/<put-cluster-
 
 # Tech Stack
 
----
+
 
 - ReactJS
 - NodeJS
@@ -111,7 +111,7 @@ You will find each version used in each `package.json` file for both the *******
 
 # Stretch Goals
 
----
+
 
 Here’s a list of my stretch goals while building this application. I do intend on adding more to the eShop website and I plan on constantly updating goals as provided by my mentor or myself:
 
