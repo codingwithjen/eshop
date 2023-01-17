@@ -115,7 +115,8 @@ You will find each version used in each `package.json` file for both the *******
 
 Here’s a list of my stretch goals while building this application. I do intend on adding more to the eShop website and I plan on constantly updating goals as provided by my mentor or myself:
 
-- [x]  Fake payment through third-party
+- [x]  Fake payment through "third-party"
+- [ ]  Admin to fulfill order status to paid, or in progress...
 - [ ]  Or Stripe Payment feature
 - [x]  Fake order confirmation or orders page
 - [x]  Fake customer reviews
@@ -123,3 +124,4 @@ Here’s a list of my stretch goals while building this application. I do intend
 - [ ]  Pagination to sale items, new arrivals, etc.
 - [ ]  Verification for new registered users and reset password via email reset only
 - [ ]  I want to eventually put this on Docker instead of having to run it via installing dependencies
+- [ ]  Out of stock when a user fakes checkout
