@@ -71,6 +71,8 @@ npm run
 6. Under Deployment, click on Database and click on `Connect` once you see the new cluster/project made
 7. Click on Connect your application and copy the application code and put code in your `.env` file. Remember to add the password in the `<password>` field
 
+- To test out the connection, I sent imports from Postman
+
 ## .env example
 
 You can replace my environment variables with your own, or use examples below
@@ -143,6 +145,6 @@ Here’s a list of my stretch goals while building this application. I do intend
 - [ ]  Out of stock when a user fakes checkout
 
 # IB
-- [irenemmassy](https://github.com/irenemmassy/)
+- [irenemmassy](https://github.com/irenemmassy_)
 - [Pedro-Freddi](https://github.com/Predro=Freddi)
 - [dhatGuy](https://github.com/dhatGuy)
