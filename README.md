@@ -141,3 +141,8 @@ Here’s a list of my stretch goals while building this application. I do intend
 - [ ]  Verification for new registered users and reset password via email reset only
 - [ ]  I want to eventually put this on Docker instead of having to run it via installing dependencies
 - [ ]  Out of stock when a user fakes checkout
+
+# IB
+- [irenemmassy](https://github.com/irenemmassy/)
+- [Pedro-Freddi](https://github.com/Predro=Freddi)
+- [dhatGuy](https://github.com/dhatGuy)
