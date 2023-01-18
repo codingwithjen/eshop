@@ -2,8 +2,8 @@
 
 ### Live Demo/Deployed Web App
 
-
-[Backend Server](https://fake-eshop-backend.herokuapp.com/api/products)
+- [Frontend Deployed Here](https://fake-eshop-client.netlify.app/)
+- [Backend Server Deployed on Heroku](https://fake-eshop-backend.herokuapp.com/api/products)
 
 
 # Description
